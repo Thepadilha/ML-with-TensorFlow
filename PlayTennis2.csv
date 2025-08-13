@@ -1,10 +1,10 @@
-﻿Previsão do Tempo;Temperatura (°F);Umidade;Vento;Jogar?
+Previsão do Tempo;Temperatura (°F);Umidade;Vento;Jogar?
 Ensolarado;85;85;Não;Não Jogar
 Ensolarado;80;90;Sim;Não Jogar
 Nublado;83;78;Não;Jogar
 Chuvoso;70;96;Não;Jogar
 Chuvoso;68;80;Não;Jogar
-Chuvoso;65;70;Sim;Não Jogar
+Chuvoso;65;;S;Não Jogar
 Nublado;64;65;Sim;Jogar
 Chuvoso;75;80;Não;Jogar
 Ensolarado;75;70;Sim;Jogar
@@ -13,8 +13,4 @@ Ensolarado;69;70;Não;Jogar
 Chuvoso;75;80;Não;Jogar
 Nublado;72;90;Sim;Jogar
 Chuvoso;71;80;Sim;Não Jogar
-;;;;
-;;;;
-;;;;
-;;;;
-;;;;
+Chuvoso;71;80;Sim;Não Jogar
