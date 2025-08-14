@@ -4,7 +4,7 @@ Ensolarado, 80, 90, Sim, Não Jogar
 Nublado, 83, 78, Não, Jogar
 Chuvoso, 70, 96, Não, Jogar
 Chuvoso, 68, 80, Não, Jogar
-Chuvoso, 65, NaN, S, Não Jogar
+Chuvoso, 65, Null, S, Não Jogar
 Nublado, 64, 65, Sim, Jogar
 Chuvoso, 75, 80, Não, Jogar
 Ensolarado, 75, 70, Sim, Jogar
