@@ -1,0 +1,16 @@
+Previsão do Tempo,Temperatura,Umidade,Vento,Jogar?
+Ensolarado,85,85,N,NãoJogar
+Ensolarado,80,90,Sim,NãoJogar
+Nublado,83,78,N,Jogar
+Chuvoso,70,96,N,Jogar
+Chuvoso,68,80,N,Jogar
+Chuvoso,65,Null,S,NãoJogar
+Nublado,64,65,S,Jogar
+Chuvoso,75,80,N,Jogar
+Ensolarado,75,70,S,Jogar
+Ensolarado,72,95,N,NãoJogar
+Ensolarado,69,70,N,Jogar
+Chuvoso,75,80,N,Jogar
+Nublado,72,90,S,Jogar
+Chuvoso,71,80,S,NãoJogar
+Chuvoso,71,80,S,NãoJogar
